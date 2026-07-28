@@ -1,4 +1,4 @@
-# pinia-tasks
+# Pinia To-Do🍍Application with Vue 3.5.40💚 made by me🙂
 
 This project should help developing with Vue 3 in Vite.
 
